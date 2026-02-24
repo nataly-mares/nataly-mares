@@ -26,5 +26,5 @@ What sets me apart is my combination of analytical skills, business perspective,
 ## 🤝 Connect with me
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/nataly-mares/edit/forms/summary/new/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></a>
+	<a href="https://www.linkedin.com/in/nataly-mares/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></a>
 </p>
