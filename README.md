@@ -18,7 +18,7 @@ I trained at TripleTen, where I worked with Python (Pandas, NumPy, Scikit-learn)
 
 What sets me apart is my combination of analytical skills, business perspective, and practical approach. I enjoy structuring problems, identifying patterns, and clearly communicating insights to support decision-making. I’m currently looking to join a team where I can contribute through analysis, automation, and modeling, helping build data-driven solutions that drive growth.
 
-📂 GitHub: github.com/nataly-mares
+
 📧 Contact: natalygarci@yahoo.com.mx
 </pre>
 <hr>
